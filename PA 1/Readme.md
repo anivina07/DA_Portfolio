@@ -14,8 +14,11 @@ The main objective of this report is to determine the conditions around the clie
 The data set for analysis was provided by the company and was analyzed  using Microsoft Excel and SQL. pgAdmin is utilized to perform the necessary data cleaning of the raw file and to test the data. Using Microsoft Excel, the data was analyzed to find relationships and patterns that may help to resolve the circumstances behind the client disputes. Visualization using the same program are then utilized to bring the data to life and for analysis purposes. 
 
 ## Dataset
+[Yellevate Invoices](https://github.com/anivina07/DA_Portfolio/blob/main/PA%201/Yellevate%20Invoices.csv)
 
 ## Dashboard
+![](https://github.com/anivina07/DA_Portfolio/blob/main/PA%201/Yellevate%20Dashboard.png)
 
 ## SQL Queries
+[SQL Queries](https://github.com/anivina07/DA_Portfolio/blob/main/PA%201/PA%201%20Group%202%20SQL%20queries.txt)
 
