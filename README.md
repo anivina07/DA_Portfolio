@@ -9,4 +9,4 @@ Data Analysis is a "new" field of study but very important in all aspects of lif
 Thank you for taking the time to visit my page and I hope to hear from you soon!
 
 ## Certifications
-[](https://github.com/anivina07/DA_Portfolio/blob/main/Certifications/RefocusCompletionCertificate_Vina%20Korina%20Solidum_117874517.pdf)
+[Refocus Certificate](https://github.com/anivina07/DA_Portfolio/blob/main/Certifications/RefocusCompletionCertificate_Vina%20Korina%20Solidum_117874517.pdf)
